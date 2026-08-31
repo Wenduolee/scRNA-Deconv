@@ -1,4 +1,4 @@
-# scRNA-seq-Deconv
+# scRNA-Deconv
 
 A specialized bioinformatic framework for donor-reference-free deconvolution of same-tissue biological mixtures using single-cell transcriptomics.
 
