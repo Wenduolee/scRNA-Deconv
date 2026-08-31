@@ -1,0 +1,13 @@
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - samtools>=1.15
+  - bcftools>=1.15
+  - freebayes=1.3.6
+  - cellsnp-lite=1.2.3
+  - vireosnp=0.5.8
+  - plink=1.90
+  - r-base>=4.3.0
